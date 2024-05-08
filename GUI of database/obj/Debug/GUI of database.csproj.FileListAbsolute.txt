@@ -1,0 +1,10 @@
+C:\Users\OUR Laptop\source\repos\GUI of database\GUI of database\bin\Debug\GUI of database.exe.config
+C:\Users\OUR Laptop\source\repos\GUI of database\GUI of database\bin\Debug\GUI of database.exe
+C:\Users\OUR Laptop\source\repos\GUI of database\GUI of database\bin\Debug\GUI of database.pdb
+C:\Users\OUR Laptop\source\repos\GUI of database\GUI of database\obj\Debug\GUI of database.csprojAssemblyReference.cache
+C:\Users\OUR Laptop\source\repos\GUI of database\GUI of database\obj\Debug\GUI_of_database.Form1.resources
+C:\Users\OUR Laptop\source\repos\GUI of database\GUI of database\obj\Debug\GUI_of_database.Properties.Resources.resources
+C:\Users\OUR Laptop\source\repos\GUI of database\GUI of database\obj\Debug\GUI of database.csproj.GenerateResource.cache
+C:\Users\OUR Laptop\source\repos\GUI of database\GUI of database\obj\Debug\GUI of database.csproj.CoreCompileInputs.cache
+C:\Users\OUR Laptop\source\repos\GUI of database\GUI of database\obj\Debug\GUI of database.exe
+C:\Users\OUR Laptop\source\repos\GUI of database\GUI of database\obj\Debug\GUI of database.pdb
